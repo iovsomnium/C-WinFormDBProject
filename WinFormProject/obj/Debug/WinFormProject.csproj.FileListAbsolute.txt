@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe.config
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\WinFormProject.pdb
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\MySql.Data.dll
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\Google.Protobuf.dll
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\Renci.SshNet.dll
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\WinFormProject\WinFormProject\bin\Debug\MySql.Data.xml
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Properties.Resources.resources
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.CopyComplete
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.exe
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.pdb
+C:\Users\user\Desktop\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Form1.resources
